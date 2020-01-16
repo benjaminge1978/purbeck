@@ -7,6 +7,9 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:#FF8400;
+  font-family: 'Poppins', sans-serif;
+
 }
 article,
 aside,
