@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import LeftCol from '../components/leftCol'
 import RightCol from '../components/rightCol'
-import "./index.css"
+
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
