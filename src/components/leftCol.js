@@ -1,13 +1,13 @@
 import React from 'react'
-import Image from '../components/image'
 import {FaFacebook, FaEnvelope} from 'react-icons/fa'
+import Logo from '../images/purbeck-embroidery-logo.png'
 
 
 export const leftCol = () => {
     return (
         <div>
             <div className="img-wrapper">
-            <Image />
+            <img src= {Logo} alt="purbeck logo"/>
             </div>
             <h1>Our new site is coming soon</h1>
             <p className="subt">If you have any queries please contact us via the contact form </p>
